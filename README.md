@@ -1,2 +1,2 @@
 # BlackScholesPricingModel
-This project was done in python and only accounts for call options at the moment.
+This project was done in python and only accounts for call options at the moment. The Black-Scholes model used accounts for dividend yeild and expects the options to be European style. The program uses primarily pandas DataFrames to store all data, while also making use of libraries such as yahooquery, numpy, scipy, pandas, and datetime. The final output of the program is designed to print to the terminal window and to a CSV file.
