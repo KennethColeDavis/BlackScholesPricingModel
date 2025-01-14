@@ -5,4 +5,4 @@ The calculated values are compared to mid-market prices, enabling the identifica
 
 This project combines advanced financial modeling, data manipulation using Python libraries such as pandas and numpy, and statistical calculations to bridge data science and quantitative finance.
 
-The Object-Oriented approach I did can alos be found on my github
+The Object-Oriented approach I did is also under this repository.
